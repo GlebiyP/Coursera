@@ -36,8 +36,16 @@ span{
 	border-bottom: 1px solid black;
 }
 
-#header{
+#salads{
 	background-color: #FFFFCF;
+}
+
+#soups{
+	background-color: #FFFF6F;
+}
+
+#drinks{
+	background-color: #FFFF2F;
 }
 
 @media(min-width: 992px){
